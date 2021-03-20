@@ -1,17 +1,15 @@
-SCPFoundation Core version 0.16.3 is now available from:
-
-  <https://download.scpfoundation.org/scpfoundation-0.16.3/>
+SCPFoundation Core version 0.16.3 is now available on github!
 
 This is a new minor version release, with various bugfixes
 as well as updated translations.
 
 Please report bugs using the issue tracker at GitHub:
 
-  <https://github.com/scpfoundation-project/scpfoundation/issues>
+  <https://github.com/asuka431/SCPFoundation-Coin/issues>
 
 To receive security and update notifications, please subscribe to:
 
-  <https://groups.google.com/forum/#!forum/scpfoundation-dev>
+  <hironikki.2170@gmail.com>
 
 How to Upgrade
 ==============
@@ -60,7 +58,7 @@ the vulnerable versions to 0.16.3 as soon as possible.
 ------------------
 
 ### Consensus
-- #14249 `696b936` Fix crash bug with duplicate inputs within a transaction (TheBlueMatt, sdaftuar)
+
 
 Credits
 =======
@@ -68,25 +66,4 @@ Credits
 Thanks to everyone who directly contributed to this release:
 
 - [The Bitcoin Core Developers](/doc/release-notes)
-- Adrian Gallagher
-- aunyks
-- coblee
-- cryptonexii
-- gabrieldov
-- jmutkawoa
-- Martin Smith
-- NeMO84
-- ppm0
-- romanornr
-- shaolinfry
-- spl0i7
-- stedwms
-- ultragtx
-- VKoskiv
-- voidmain
-- wbsmolen
-- xinxi
-
-And to those that reported security issues:
-
-- beardnboobies
+- [The Litecoin Core Developers]

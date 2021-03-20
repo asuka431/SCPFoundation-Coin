@@ -1,21 +1,23 @@
 SCPFoundation Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/scpfoundation-project/scpfoundation.svg?branch=master)](https://travis-ci.org/scpfoundation-project/scpfoundation)
-
-https://scpfoundation.org
 
 What is SCPFoundation?
+SCPFoundationCoinとは何でしょう？
 ----------------
-
-SCPFoundation is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. SCPFoundation uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. SCPFoundation Core is the name of open source
-software which enables the use of this currency.
-
+Special Containment Procedures:
+SCPFoundation is a symple cryptcuurency which is forked Litecoin.
+It is unofficial but allowed from scpfoundation-jp site to deverop.
 For more information, as well as an immediately useable, binary version of
-the SCPFoundation Core software, see [https://scpfoundation.org](https://scpfoundation.org).
+the SCPFoundation Core software, see [http://scp-jp-sandbox3.wikidot.com/draft:6861450-3-a538](http://scp-jp-sandbox3.wikidot.com/draft:6861450-3-a538).
+But it is written in japanese, so i hope someone to help us with trancelate in english.
+特別収容プロトコル：
+SCP財団コインはシンプルな文字置換を使って製作されたLitecoinのForkです。
+財団非公式ですが、SCP財団日本支部から開発の許可を得ています。
+さらに情報が必要な場合は、バイナリーバージョンのこちら
+[http://scp-jp-sandbox3.wikidot.com/draft:6861450-3-a538](http://scp-jp-sandbox3.wikidot.com/draft:6861450-3-a538)
+を見ていただけるとありがたいです。
+しかしながら説明文は日本語しか用意できてないです。誰か翻訳手伝って...
 
 License
 -------
@@ -29,6 +31,8 @@ Development Process
 The `master` branch is regularly built and tested, but is not guaranteed to be
 completely stable. [Tags](https://github.com/scpfoundation-project/scpfoundation/tags) are created
 regularly to indicate new official, stable release versions of SCPFoundation Core.
+「master」タグのブランチは一通りの動作が確認されていますが、バグもあります。
+新しいステーブル版の完成にご協力お願いします。
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
