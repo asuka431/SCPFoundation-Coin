@@ -86,7 +86,7 @@ The next three steps are an example of how to acquire the source in an appropria
 
     cd /usr/src
     sudo git clone https://github.com/asuka431/SCPFoundation-Coin.git
-    sudo chmod -R a+rw SCPfoundation-coin
+    sudo chmod -R a+rw SCPFoundation-Coin
 
 Once the source code is ready the build steps are below.
 
