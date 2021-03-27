@@ -3,7 +3,6 @@ NetBSD build guide
 (updated for NetBSD 7.0)
 
 This guide describes how to build scpfoundationd and command-line utilities on NetBSD.
-
 This guide does not contain instructions for building the GUI.
 
 Preparation
@@ -25,7 +24,7 @@ python27
 
 Download the source code:
 ```
-git clone https://github.com/scpfoundation-project/scpfoundation
+git clone https://github.com/asuka431/SCPFoundation-Coin
 ```
 
 See [dependencies.md](dependencies.md) for a complete overview.
